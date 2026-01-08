@@ -1,1 +1,1 @@
-Now, I am trying to push this to remote repo
+Now, I am trying to push this to remote repo, attempted to edit in Machine B and done.
